@@ -6,7 +6,10 @@ since this section exist, they in fact were defintely worth it.
 
 ## first order
 since I had never bought keyboard accessories and items, I decided to go with what I thought were the safest items: keyboard switches from a reputable 
-popular brand: gateron. I also decided to choose cheaper switches, milky yellow pros, and got a few expensive but high popular ones, gateron oil king and
-ink blacks. 
+popular brand: gateron. most of my order was cheaper but still very popular switches, milky yellow pros, and I got a few expensive ones to also test 
+the higher-end budget market, gateron oil king and ink blacks (these are also still very popular)
+
+### pricing
+items order: 
 
 
