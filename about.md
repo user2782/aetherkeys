@@ -1,4 +1,4 @@
-what is aetherkeys?
+## what is aetherkeys?
 
 aetherkeys is a half passion project and e-commerce business attempt. after gaining expereince building and modding custom keyboards, I looked into
 potential ways to better monetize my hobby. at this point I was building budget boards with parts ordered from aliexpress and amazon and selling them
