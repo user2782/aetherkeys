@@ -1,5 +1,5 @@
 # aetherkeys
-supplier project through lcoal marketplaces and shopfiy 
+supplier project facilitated by local marketplaces and shopfiy 
 
-this is a journal with entries on the steps taken to run this project  
-please review other files for specific details on specific parts 
+this is a journal with entries of the steps taken to run this project.  
+please review other files for information.
