@@ -11,7 +11,7 @@ retail pricing. in this way I could not only build cheaper custom commissions bu
 ## so, who are we?
 
 "aetherkeys specializes in the importation of custom keyboard parts. We aim to provide and widen the selection of products within this niche. As our customer base expands, our primary focus is to consistently reduce product prices, ensuring broad accessibility to quality goods."   
-note: same statement was used in amazon fba but slightly adjusted
+note: statement used in amazon FBA and shopify 
 
 ## where can you find us?
 
