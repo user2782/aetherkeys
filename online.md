@@ -1,4 +1,4 @@
-# online uh progress ig
+# online progress ig
 
 ## start
 visited alibaba (already used a couple times, okayish experience) to see if items I wanted to purchase were profitable and worth it after shipping cost, 
