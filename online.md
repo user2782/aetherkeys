@@ -9,6 +9,9 @@ since I had never bought keyboard accessories and items, I decided to go with wh
 popular brand: gateron. most of my order was cheaper but still very popular switches, milky yellow pros, and I got a few expensive ones to also test 
 the higher-end budget market, gateron oil king and ink blacks (these are also still very popular)
 
+note: at this point, I was only planning to use all the parts, later down the line after making a second order and having a lot of spare items I decided to 
+set up an online platform to sell these items.
+
 ### pricing
 items order: 
 
