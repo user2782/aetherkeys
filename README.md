@@ -1,5 +1,4 @@
 # aetherkeys
-supplier project facilitated by local marketplaces, amazon and shopfiy 
 
-entries of  steps taken to run this project.  
+entries of  steps taken to run this project and self-made brand.
 please review other files for specific information.
