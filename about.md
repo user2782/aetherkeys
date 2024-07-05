@@ -14,7 +14,7 @@ note: statement used in amazon FBA and shopify
 ## where can you find us?
 
 you can find us (well me) selling locally on facebook marketplace, kijiji and recently amazon FBA & shopify. I believe the things I learn through my online  experience are extremely helpful but specific so I added a separate section that will go into detail on that process. 
-- update: moved to building a woocommerce website (2024-07-05)
+- update: moved to building a woocommerce website. shopify store discontinued due to high overhead cost of service (2024-07-05)
 
 ## why?
 1. love exploring new side projects (first engagement with subject through youtube browsing)
