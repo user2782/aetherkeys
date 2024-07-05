@@ -2,7 +2,7 @@
 
 ## start
 visited alibaba (already used a couple times, okayish experience) to see if items I wanted to purchase were profitable and worth it after shipping cost, 
-since this section exist, they in fact were defintely worth it.
+since this project exist, they were in fact defintely worth it.
 
 ## first order
 since I had never bought keyboard accessories and items, I decided to go with what I thought were the safest items: keyboard switches from a reputable 
