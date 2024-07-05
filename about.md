@@ -7,10 +7,9 @@ after gaining experience building and modding custom keyboards, I looked into po
 
 aetherkeys is a half passion project and e-commerce business attempt. I decided to make large orders overseas through alibaba to get my needed items at 
 retail pricing. in this way I could not only build cheaper custom commissions but also have an attempt to enter this supplying market through online channels.
-
-  ### about us statment i guess:
-  "aetherkeys specializes in the importation of custom keyboard parts. We aim to provide and widen the selection of products within this niche. As our     customer base expands, our primary focus is to consistently reduce product prices, ensuring broad accessibility to quality goods."   
-  note: statement used in amazon FBA and shopify 
+### about us statment i guess:
+"aetherkeys specializes in the importation of custom keyboard parts. We aim to provide and widen the selection of products within this niche. As our     customer base expands, our primary focus is to consistently reduce product prices, ensuring broad accessibility to quality goods."   
+note: statement used in amazon FBA and shopify 
 
 ## where can you find us?
 
