@@ -13,6 +13,7 @@ note: at this point, I was only planning to use all the parts, later down the li
 set up an online platform to sell these items.
 
 ### pricing
-items order: 
+![image](https://github.com/user2782/aetherkeys/assets/168938488/efdc22fa-8df6-4828-8ccd-55956e5a980f)
+
 
 
