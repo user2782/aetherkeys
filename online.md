@@ -14,9 +14,9 @@ set up an online platform to sell these items.
 
 ### pricing
 i priced my items sold locally by:
-- convert usd to cad
+- converting usd to cad
 - divide shipping cost (not part of below invoice) by total units, add this individual shipping cost to all units (i know this is not the best as some items cost more and should take a larger percentage of this additional cost but prciing wise all items msrp ended up reasonable)
-- to get msrp i set a profit margin of 60% and multipled the cost+shipping by 1.6
+- to get msrp i set a profit margin of 60% and multipled the [cost+shipping] by 1.6
 - example: gateron milky yellow (35pc/pk) 4.55 usd to cad = ~6.20 + ~1.00 (shipping). $7.20*1.6 = ~11.50 (approximate sale price on my end)
   - note selling on services like amazon, there were addtional shipping charges to amazon and to customer along with sale commission hence price on amazon were closer to 19.99 due to such fees.
     
