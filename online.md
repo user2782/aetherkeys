@@ -18,9 +18,15 @@ i priced my items sold locally by:
 - divide shipping cost (not part of below invoice) by total units, add this individual shipping cost to all units (i know this is not the best as some items cost more and should take a larger percentage of this additional cost but prciing wise all items msrp ended up reasonable)
 - to get msrp i set a profit margin of 60% and multipled the [cost+shipping] by 1.6
 - example: gateron milky yellow (35pc/pk) 4.55 usd to cad = ~6.20 + ~1.00 (shipping). $7.20*1.6 = ~11.50 (approximate sale price on my end)
-  - note selling on services like amazon, there were addtional shipping charges to amazon and to customer along with sale commission hence price on amazon were closer to 19.99 due to such fees.
+  - note selling on services like amazon, there were addtional shipping charges to amazon and to customer along with sale commission hence price on amazon were closer to $17.99 due to such fees.
     
 ![image](https://github.com/user2782/aetherkeys/assets/168938488/efdc22fa-8df6-4828-8ccd-55956e5a980f)
+
+### entering market  
+checking back with the market, my prices were perfectly reasonable (cheaper than all sellers selling the 35pc/pk), but noticed that I was close/a bit expensive compared to sellers selling a 70pc/pk, I fixed this by applying 10-20% discounts on mutiple units, this lowered profits but ensured I had the most competitive pricing. needed as I was a new seller and wanted to provide buyers some incentive to consider my listing over another established one.  
+
+![image](https://github.com/user2782/aetherkeys/assets/168938488/d048163d-4dd4-4c1a-9d4d-bec32bac63e8)
+
 
 
 
