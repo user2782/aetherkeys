@@ -27,6 +27,19 @@ checking back with the market, my prices were perfectly reasonable (cheaper than
 
 ![image](https://github.com/user2782/aetherkeys/assets/168938488/d048163d-4dd4-4c1a-9d4d-bec32bac63e8)
 
+same approach was taken with the other 2 gateron items i broguht over, i still kept some inventory to sell locally.
+
+### shopify
+- was too pricy
+- trial period was too short, not enough time for experimenting for me to consider it worth it
+- never opened ecommerce site so initial fees seemed too high for me
+- pivoted away on 2024-06-23
+
+### woocommerce
+- site: aetherkeys.com
+- bought domain for 3 years a while ago (was not too expensive and would let me have some peace of mind knowing i have a website domain down)
+  - purchased on namecheap, expereince is alright
+- 
 
 
 
