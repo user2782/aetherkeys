@@ -36,7 +36,7 @@ same approach was taken with the other 2 gateron items i broguht over, i still k
 - pivoted away on 2024-06-23
 
 ### woocommerce
-- site: aetherkeys.com
+- site: [aetherkeys.com](aetherkeys.com)
 - bought domain for 3 years a while ago (was not too expensive and would let me have some peace of mind knowing i have a website domain down)
   - purchased on namecheap, expereince is alright
 - 
